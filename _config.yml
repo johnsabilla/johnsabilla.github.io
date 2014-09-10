@@ -1,0 +1,14 @@
+Name:         John
+Maiden:		  Elicerio
+Surname:	  Sabilla
+tagline:      'John'
+description:  'Software <b>Engineer</b>, Blogger, Gamer, Tech <b>Enthusiast</b>.'
+url:          johnsabilla.github.io
+version:      1.1.1
+author:
+  name:       'John Sabilla'
+  email:      'johnesabilla@gmail.com'
+markdown:     rdiscount
+permalink:    pretty
+highlighter:  pygments
+paginate:     5
